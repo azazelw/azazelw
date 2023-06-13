@@ -5,3 +5,7 @@
 FachHochschule Aschaffenburg 2017, Zulassung
 
 哈尔滨工业大学 2022至今，工业工程与管理硕士在读
+
+黑魂pvp玩家
+
+异度之刃2天下第一

@@ -1,8 +1,8 @@
-Hi there, I`m Azazel Wang, an Embedded R&D Engineer
+Hi there, I'm Azazel Wang, an Embedded R&D Engineer
 
-同济大学 CDHAW 2014-2018 机械电子工程，工学学士
+Tongji University 2014-2018, Bachelor of Mechatronics
 
-哈尔滨工业大学 2022至今，工业工程与管理硕士在读
+Harbin Institute of Technology from 2022 till now, Master in Industrial Engineering and Management
 
 FachHochschule Aschaffenburg 2017, Zulassung
 
@@ -10,4 +10,4 @@ FachHochschule Aschaffenburg 2017, Zulassung
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azazelw&theme=react-dark)](https://github.com/azazelw/github-readme-activity-graph)
 
-
+I'm a Nintendo fan and Xenoblade2 is the best game in the world

@@ -15,7 +15,7 @@ FachHochschule Aschaffenburg 2017, Zulassung
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Arknights-007396?style=flat-square&logo=Arknights&logoColor=ffffff)
 
-My main focus is hardware, so in most cases, only the upper computer is involved in programming.
+My main focus is hardware, so coding is relatively lacking
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azazelw&theme=github-light)](https://github.com/azazelw/github-readme-activity-graph)
 

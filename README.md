@@ -6,7 +6,14 @@ Harbin Institute of Technology from 2022 till now, Master in Industrial Engineer
 
 FachHochschule Aschaffenburg 2017, Zulassung
 
-汉语，English, Deutsch, 日本語, C, C Sharp
+汉语, English, Deutsch, 日本語, C, C Sharp
+
+[![](https://img.shields.io/badge/iphone%2014pro-purple?style=flat-square&logo=apple&logoColor=ffffff&color=purple&labelColor=black)](https://www.apple.com/)
+[![](https://img.shields.io/badge/NVDIA-3060Ti-darkgreen?style=flat-square&logo=NVIDIA&logoColor=ffffff&labelColor=black)](https://www.nvidia.cn/)
+
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
+![](https://img.shields.io/badge/-Arknights-007396?style=flat-square&logo=Arknights&logoColor=ffffff)
 
 My main focus is hardware, so in most cases, only the upper computer is involved in programming.
 

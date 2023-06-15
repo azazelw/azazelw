@@ -6,7 +6,7 @@ Harbin Institute of Technology from 2022 till now, Master in Industrial Engineer
 
 FachHochschule Aschaffenburg 2017, Zulassung
 
-汉语，English, Deutsch, C, C Sharp
+汉语，English, Deutsch, 日本語, C, C Sharp
 
 My main focus is hardware, so in most cases, only the upper computer is involved in programming.
 

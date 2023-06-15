@@ -8,6 +8,8 @@ FachHochschule Aschaffenburg 2017, Zulassung
 
 汉语，English, Deutsch, C, C Sharp
 
+My main focus is hardware, so in most cases, only the upper computer is involved in programming.
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azazelw&theme=react-dark)](https://github.com/azazelw/github-readme-activity-graph)
 
 I'm a Nintendo fan and Xenoblade2 is the best game in the world

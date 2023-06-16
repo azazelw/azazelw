@@ -21,4 +21,4 @@ If you're interested, feel free to check out my activity graph on Github.
 
 Additionally, I'm a Nintendo fan and Xenoblade2 is the best game in the world
 
-Thanks for taking the time to read about my accomplishments!
+Thanks for taking the time to read about my introduction!

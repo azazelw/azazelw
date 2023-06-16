@@ -19,6 +19,4 @@ If you're interested, feel free to check out my activity graph on Github.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azazelw&theme=github-light)](https://github.com/azazelw/github-readme-activity-graph)
 
-Additionally, I'm a Nintendo fan and Xenoblade2 is the best game in the world
-
-Thanks for taking the time to read about my introduction!
+Thanks for taking the time to read about my introduction

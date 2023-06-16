@@ -12,8 +12,8 @@ FachHochschule Aschaffenburg 2017, Zulassung
 [![](https://img.shields.io/badge/NVDIA-3060Ti-darkgreen?style=flat-square&logo=NVIDIA&logoColor=ffffff&labelColor=black)](https://www.nvidia.cn/)
 
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-![](https://img.shields.io/badge/-Arknights-007396?style=flat-square&logo=Arknights&logoColor=ffffff)
+[![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)](https://www.nintendo.com/)
+[![](https://img.shields.io/badge/-Arknights-007396?style=flat-square&logo=Arknights&logoColor=ffffff)](https://ak.hypergryph.com/)
 
 My main focus is hardware, so coding is relatively lacking
 

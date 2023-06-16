@@ -15,8 +15,10 @@ FachHochschule Aschaffenburg 2017, Zulassung
 [![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)](https://www.nintendo.com/)
 [![](https://img.shields.io/badge/-Arknights-007396?style=flat-square&logo=Arknights&logoColor=ffffff)](https://ak.hypergryph.com/)
 
-My main focus is hardware, so coding is relatively lacking
+If you're interested, feel free to check out my activity graph on Github.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azazelw&theme=github-light)](https://github.com/azazelw/github-readme-activity-graph)
 
-I'm a Nintendo fan and Xenoblade2 is the best game in the world
+Additionally, I'm a Nintendo fan and Xenoblade2 is the best game in the world
+
+Thanks for taking the time to read about my accomplishments!

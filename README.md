@@ -15,8 +15,7 @@ FachHochschule Aschaffenburg 2017, Zulassung
 [![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)](https://www.nintendo.com/)
 [![](https://img.shields.io/badge/-Arknights-007396?style=flat-square&logo=Arknights&logoColor=ffffff)](https://ak.hypergryph.com/)
 
-If you're interested, feel free to check out my activity graph on Github.
+If you're interested, feel free to check out my activities on Github.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azazelw&theme=github-light)](https://github.com/azazelw/github-readme-activity-graph)
 
-Thanks for taking the time to read about my introduction

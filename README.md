@@ -4,7 +4,8 @@ Harbin Institute of Technology 2022-2025, Master of Mechatronics
 
 Harbin Institute of Technology 2025 till now, Phd candidate in State Key Laboratory of Robotics and Systems
 
-汉语, English, Deutsch, 日本語, C, C Sharp, C++, Python
+汉语, English, Deutsch, 日本語
+C, C#, C++, Python
 
 [![](https://img.shields.io/badge/NVDIA-5060-darkgreen?style=flat-square&logo=NVIDIA&logoColor=ffffff&labelColor=black)](https://www.nvidia.cn/)
 

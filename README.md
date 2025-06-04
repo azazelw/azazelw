@@ -6,7 +6,6 @@ Harbin Institute of Technology 2025 till now, Phd candidate in State Key Laborat
 
 汉语, English, Deutsch, 日本語, C, C Sharp, C++, Python
 
-[![](https://img.shields.io/badge/iphone%2014pro-purple?style=flat-square&logo=apple&logoColor=ffffff&color=purple&labelColor=black)](https://www.apple.com/)
 [![](https://img.shields.io/badge/NVDIA-5060-darkgreen?style=flat-square&logo=NVIDIA&logoColor=ffffff&labelColor=black)](https://www.nvidia.cn/)
 
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)

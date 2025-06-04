@@ -1,15 +1,13 @@
-Hi there, I'm Azazel Wang, an Embedded R&D Engineer
-
 Tongji University 2014-2018, Bachelor of Mechatronics
 
-Harbin Institute of Technology from 2022 till now, Master in Industrial Engineering and Management
+Harbin Institute of Technology 2022-2025, Master of Mechatronics
 
-FachHochschule Aschaffenburg 2017, Zulassung
+Harbin Institute of Technology 2025 till now, Phd candidate in State Key Laboratory of Robotics and Systems
 
-汉语, English, Deutsch, 日本語, C, C Sharp
+汉语, English, Deutsch, 日本語, C, C Sharp, C++, Python
 
 [![](https://img.shields.io/badge/iphone%2014pro-purple?style=flat-square&logo=apple&logoColor=ffffff&color=purple&labelColor=black)](https://www.apple.com/)
-[![](https://img.shields.io/badge/NVDIA-3060Ti-darkgreen?style=flat-square&logo=NVIDIA&logoColor=ffffff&labelColor=black)](https://www.nvidia.cn/)
+[![](https://img.shields.io/badge/NVDIA-5060-darkgreen?style=flat-square&logo=NVIDIA&logoColor=ffffff&labelColor=black)](https://www.nvidia.cn/)
 
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 [![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)](https://www.nintendo.com/)
@@ -17,5 +15,4 @@ FachHochschule Aschaffenburg 2017, Zulassung
 
 If you're interested, feel free to check out my activities on GitHub
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azazelw&theme=github-light)](https://github.com/azazelw/github-readme-activity-graph)
 
